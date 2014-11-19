@@ -1,6 +1,0 @@
----
-layout: post
-title: Lecture
----
-<iframe width="420" height="315" src="//www.youtube.com/embed/wt2hL95FQjo" frameborder="0" allowfullscreen></iframe>
-Is this thing on?
