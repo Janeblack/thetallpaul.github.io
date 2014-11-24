@@ -30,17 +30,6 @@ body {
   width: 100%;
 }
 
-.quote {
-  position: absolute;
-  margin: 70px 30px;
-  height: 80px;
-  top: 0px;
- 
-  opacity: 0;
-  -moz-opacity: 0;
-  filter:alpha(opacity=0);
-}
-
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
@@ -161,8 +150,6 @@ img {
 }
 
 .masthead {
-  background: $lightblue;
-  color: $lightblue;
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
   
@@ -231,18 +218,6 @@ nav {
     display: block;
     font-size: 16px;
   }
-  
- * {margin: 0; padding: 0;}
- body {
-  background: url('dark_geometric.png'); /*http://subtlepatterns.com/?p=1045*/
- }
- 
- .container {
-  height: 210px;
-  width: 940px;
-  margin: 0 auto;
-  position: relative;
- }
 
   a {
     margin-left: 20px;
