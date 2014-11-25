@@ -226,14 +226,14 @@ img {
 }
 
 /* Make it pretty */
-.microsoft {
+.quote {
     padding-left: 1.5em;
     position: relative;
     font: 16px 'Segoe UI', Tahoma, Helvetica, Sans-Serif;
 }
 
 /* ::before was :before before ::before was ::before - kthx */
-.microsoft:before, .microsoft::before {
+.quote:before, .quote::before {
     z-index: 2;
     content: '';
     position: absolute;
@@ -245,7 +245,7 @@ img {
         		1.6em 1.85em 0 #FFBB00;
 }
 
-.microsoft:after, .microsoft::after {
+.quote:after, .quote::after {
     z-index: 1;
     content: '';
     position: absolute;
