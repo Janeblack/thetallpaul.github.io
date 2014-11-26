@@ -235,6 +235,7 @@ nav {
       margin: 0 10px;
       color: $blue;
     }
+  }
   b {
     margin-left: 0px;
     color: $darkGray;
@@ -245,7 +246,8 @@ nav {
     @include mobile {
       margin: 0 10px;
       color: $blue;
-    }   
+    }
+  } 
   }
 }
 
