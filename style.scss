@@ -205,11 +205,6 @@ img {
   }
 }
 
-.marquee.slide-quote {
-	-webkit-marquee: right medium infinite slide normal;
-	overflow-x: -webkit-marquee;
-}
-
 nav {
   float: left;
   margin-left: -2px;
@@ -226,7 +221,7 @@ nav {
 
   a {
     margin-left: 20px;
-    margin-right: 149px;
+    margin-right: 148px;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
