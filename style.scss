@@ -148,6 +148,19 @@ img {
     clear: both;
 }
 
+//Video Wrapper
+video {
+        width: 720px;
+        height: 480px;
+        }
+ 
+        @media screen and (max-width: 640px) {
+        video {
+                width: 100%;
+                height: 240px;
+        }
+}
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
