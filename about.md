@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
 ### More Information
 
@@ -12,4 +11,5 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[JaneBoutwell@Gmail.com](mailto:JaneBoutwell@Gmail.com)
+My email address is [JaneBoutwell@Gmail.com](mailto:JaneBoutwell@Gmail.com)
+You can also reach me through Twitter or LinkedIn with the buttons at the bottom of the page.
