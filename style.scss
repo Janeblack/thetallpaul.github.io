@@ -75,14 +75,15 @@ a {
   &:hover, &:active {
     color: $blue;
   }
+}  
 b {
   color: $blue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
-  }  
-}
+  }
+}  
 
 ul, ol {
   margin: 15px 0;
