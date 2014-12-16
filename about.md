@@ -6,7 +6,9 @@ permalink: /about/
 ### My Expertise
 
 I focus on helping people with two main things:
+
 1. Communicating more clearly.
+
 2. Delevering impactful presentations.
 
 ### Contact me
